@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   web-app:
   - apiVersion: v2
+    appVersion: 0.0.7
+    created: "2023-01-25T12:48:40.715157815Z"
+    description: A demo Helm chart for Kubernetes
+    digest: 017f658ef445f82f2e4984c78d8e56763a6ac53c5be5b71b74d18cd28ed1b884
+    name: web-app
+    type: application
+    urls:
+    - web-app-0.0.7.tgz
+    version: 0.0.7
+  - apiVersion: v2
     appVersion: 0.0.6
-    created: "2023-01-25T09:30:46.238429018Z"
+    created: "2023-01-25T12:48:40.714797657Z"
     description: A demo Helm chart for Kubernetes
     digest: fcf8767c1ffc58860b18c9619d0191a6bd77b755d049c1bedc95bef84267689a
     name: web-app
@@ -13,7 +23,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 0.0.5
-    created: "2023-01-25T09:30:46.237980202Z"
+    created: "2023-01-25T12:48:40.714494567Z"
     description: A demo Helm chart for Kubernetes
     digest: 5e0982fb790cfd9f63957fe2f5433bd723dd6dc8dfe1f502d719722f22477ad8
     name: web-app
@@ -23,7 +33,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 0.0.3
-    created: "2023-01-25T09:30:46.237408189Z"
+    created: "2023-01-25T12:48:40.714205863Z"
     description: A demo Helm chart for Kubernetes
     digest: 3cb9069b451cb9032f18e6de93fe6b6fc0a566c971d78e49add0331bb6501120
     name: web-app
@@ -33,7 +43,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2023-01-25T09:30:46.236917218Z"
+    created: "2023-01-25T12:48:40.71386621Z"
     description: A demo Helm chart for Kubernetes
     digest: fab858ce2fc2f145aeaf84c3cff70f970586ad7534f62a3402f90cfc8e10fe6b
     name: web-app
@@ -43,7 +53,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-01-25T09:30:46.236512642Z"
+    created: "2023-01-25T12:48:40.71350469Z"
     description: A demo Helm chart for Kubernetes
     digest: 7cf04eb42a249f6bf6553f686601d526934eb8198256e2d5ab577a7946cf5546
     name: web-app
@@ -51,4 +61,4 @@ entries:
     urls:
     - web-app-0.0.1.tgz
     version: 0.0.1
-generated: "2023-01-25T09:30:46.221577564Z"
+generated: "2023-01-25T12:48:40.712880519Z"
